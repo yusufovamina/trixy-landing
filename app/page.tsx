@@ -149,13 +149,7 @@ export default function HomePage() {
                 {lang === "ru" ? "Записаться" : "Qeydiyyat"}
               </Link>
             </div>
-            <div className="hero-stats">
-              <div className="hero-stats-icon">📅</div>
-              <div>
-                <strong>250k+</strong>
-                <span>{lang === "ru" ? "Помогли учеников" : "Kömək edilən tələbə"}</span>
-              </div>
-            </div>
+            
           </div>
           <div className="hero-image-side">
             <img
